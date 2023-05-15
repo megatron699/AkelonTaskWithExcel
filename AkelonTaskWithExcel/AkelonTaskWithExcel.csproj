@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Копия_Приложение_2_Дополнительная_информация_для_выполнения_практического.XLSX" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="ClosedXML" Version="0.101.0" />
     <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
   </ItemGroup>
